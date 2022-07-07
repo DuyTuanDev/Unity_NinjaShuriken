@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Level/CotChuyen.unity
+    guid: 54ec18480b4bff3489699afda8492eb0
+  - enabled: 1
+    path: Assets/Level/Home/Menu.unity
+    guid: a0001c23188fd164abcbb4d017fc9153
+  - enabled: 1
+    path: Assets/Level/Levels/Level.unity
+    guid: 61be9878a4588ed40a100b95d8578963
+  - enabled: 1
+    path: Assets/Level/lv1/lv1.unity
+    guid: 264f02e6c9c728a4f9b81d2afbc005f5
+  - enabled: 1
+    path: Assets/Level/Lv2/Lv2.unity
+    guid: 945932389d8e9284fa16f812300e87c5
+  - enabled: 1
+    path: Assets/Level/Lv3/Lv3.unity
+    guid: 876dc53162bfc3b4f9f9f4bcab503c70
+  - enabled: 1
+    path: Assets/Level/Lv4/Lv4.unity
+    guid: 7c250cf0c3275cb4e88df577007086a3
+  - enabled: 1
+    path: Assets/Level/Lv5/Lv5.unity
+    guid: 60b46389e74553b49a4eaec66d7861e7
+  - enabled: 1
+    path: Assets/Level/Lv6/Lv6.unity
+    guid: 03b15ba138d33a64ebb9582a600a3d7c
+  - enabled: 1
+    path: Assets/Level/Lv7/Lv7.unity
+    guid: 6304824c40d5bab488082f496442a184
+  m_configObjects: {}

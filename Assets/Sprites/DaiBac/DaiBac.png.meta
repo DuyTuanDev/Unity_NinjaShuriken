@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: c7eefbee9fb83144a897d1915b5ab9ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3819595073787561832
+    second: DaiBac_0
+  - first:
+      213: -3926456181667478372
+    second: DaiBac_1
+  - first:
+      213: -3251489553896055670
+    second: DaiBac_2
+  - first:
+      213: -956424986984928768
+    second: DaiBac_3
+  - first:
+      213: 3580339391617366418
+    second: DaiBac_4
+  - first:
+      213: -5132975950186443903
+    second: DaiBac_5
+  - first:
+      213: 7224604622455227372
+    second: DaiBac_6
+  - first:
+      213: -6413478915197714445
+    second: DaiBac_7
+  - first:
+      213: -290925718100245534
+    second: DaiBac_8
+  - first:
+      213: 989279793982404685
+    second: DaiBac_9
+  - first:
+      213: -3343713915707541657
+    second: DaiBac_10
+  - first:
+      213: 5517416262543415261
+    second: DaiBac_11
+  - first:
+      213: 7565235400899862593
+    second: DaiBac_12
+  - first:
+      213: 4505969134024016757
+    second: DaiBac_13
+  - first:
+      213: -4108210160017474766
+    second: DaiBac_14
+  - first:
+      213: 480662142550908373
+    second: DaiBac_15
+  - first:
+      213: -6009833489682935750
+    second: DaiBac_16
+  - first:
+      213: 1378804884045093452
+    second: DaiBac_17
+  - first:
+      213: 9048101598279200129
+    second: DaiBac_18
+  - first:
+      213: -7091838324939308270
+    second: DaiBac_19
+  - first:
+      213: 7223243978401515701
+    second: DaiBac_20
+  - first:
+      213: -8729374264896096717
+    second: DaiBac_21
+  - first:
+      213: 8300274694151806726
+    second: DaiBac_22
+  - first:
+      213: 5823716229251653128
+    second: DaiBac_23
+  - first:
+      213: 3310434195547412328
+    second: DaiBac_24
+  - first:
+      213: 4380912579687245653
+    second: DaiBac_25
+  - first:
+      213: -990448023019404154
+    second: DaiBac_26
+  - first:
+      213: 5022570010027664034
+    second: DaiBac_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DaiBac_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 236
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987f0974821efac0800000000000000
+      internalID: -3819595073787561832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 236
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94c291f7ec6289c0800000000000000
+      internalID: -3926456181667478372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 236
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd1255a7360e2d0800000000000000
+      internalID: -3251489553896055670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 236
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aa47caa881ab2f0800000000000000
+      internalID: -956424986984928768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 236
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299f0bc05bbefa130800000000000000
+      internalID: 3580339391617366418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 236
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b8388a19104c8b0800000000000000
+      internalID: -5132975950186443903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 236
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3c61460a3f24460800000000000000
+      internalID: 7224604622455227372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 132
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffbe2d18eebef6a0800000000000000
+      internalID: -6413478915197714445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e30c9cc99c66fbf0800000000000000
+      internalID: -290925718100245534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 156
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48facf2bb0aabd00800000000000000
+      internalID: 989279793982404685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 133
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767b8bfc8edb891d0800000000000000
+      internalID: -3343713915707541657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 133
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd71dd6bbdcc19c40800000000000000
+      internalID: 5517416262543415261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_12
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 132
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a8d8c38d1df860800000000000000
+      internalID: 7565235400899862593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 132
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5734062cd0b688e30800000000000000
+      internalID: 4505969134024016757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 97
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf18d20a4bcf6c0800000000000000
+      internalID: -4108210160017474766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 99
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd99b70ca7aba600800000000000000
+      internalID: 480662142550908373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 105
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d3385848c89ca0800000000000000
+      internalID: -6009833489682935750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_17
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 105
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ad410acbf722310800000000000000
+      internalID: 1378804884045093452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 105
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d6319f670519d70800000000000000
+      internalID: 9048101598279200129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 97
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213cd7d1e9ab49d90800000000000000
+      internalID: -7091838324939308270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 31
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b80a92c02e1e3460800000000000000
+      internalID: 7223243978401515701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 31
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3367e653b580bd680800000000000000
+      internalID: -8729374264896096717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 31
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f151b8bdf703370800000000000000
+      internalID: 8300274694151806726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 31
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed83d1e0ff1d050800000000000000
+      internalID: 5823716229251653128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_24
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 89
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867d8e58c5601fd20800000000000000
+      internalID: 3310434195547412328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 31
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5576c48b7c02ccc30800000000000000
+      internalID: 4380912579687245653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 65
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c07b45c83142f0800000000000000
+      internalID: -990448023019404154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaiBac_27
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 31
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2aa3b30d0c3b540800000000000000
+      internalID: 5022570010027664034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
